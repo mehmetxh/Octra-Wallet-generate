@@ -3,6 +3,8 @@ herkese selam arkadaşlar octra bir faucet açmış ve validator değilseniz bil
 
 ````curl -fsSL https://bun.sh/install | bash````
 
+```sudo ufw allow 8888```
+
 `npm install -g bun`
 
 ``bun --version``
@@ -18,3 +20,5 @@ herkese selam arkadaşlar octra bir faucet açmış ve validator değilseniz bil
 ``bun start``
 
 sonrasında http://ip:8888 ile tarayıcıya bağlanacağız ve generate cüzdan bölümü açılacak oradan kelime ve adresleri alacağız. 
+
+https://faucet.octra.network/
