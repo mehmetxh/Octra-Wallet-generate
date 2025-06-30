@@ -11,6 +11,8 @@ pip install -r requirements.txt
 
 cp wallet.json.example wallet.json```
 
+2 private key formatı var
+
 
 
 
